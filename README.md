@@ -1,4 +1,4 @@
 # Sistema Administrativo para Comunicação Visual
-Projeto - Comunicação visual
+Projeto - Comunicação visual - 
 Este foi um projeto iniciado apartir do zero para um sistema de comunicação visual, com cerca de 40% do sistema pronto o cliente passou por dificuldades e parou o desenvolvimento. O sistea funciona, porém estava em fase laboratorial e não passou por limpeza, existem muitos arquivos de teste. Nosso objetivo era apenas o back-end, porém desenvolvi algumas coisas com CSS/HTML para poder puxar e testar dados, as páginas web estão dentro da pasta sistema. Aqui encontramos diversos cadastros e relacionamentos entre tabelas feitas por dentro do sistema, paramos nas parte de orçamentos, porém ja conseguiamos montar orçamentos com muitos ítens e subítens para composição de produtos. Tem também um protótipo de contas a pagar e receber no formato 1.0, 1.1, 1.1.2...
 Tudo o que esta pronto esta funcional. Trabalhamos sem time, apenas 1 para fazer tudo, como o projeto foi abandonado e retomei outros não tive tempo de organiza-lo. 
